@@ -31,5 +31,5 @@ Sigue estos pasos para clonar el proyecto desde GitHub y ejecutarlo en tu máqui
    ```
    flutter run
 
-<h2> Capturas de pantalla </h1>
+<h2> Capturas de pantalla </h2>
 ![Bienvenida](https://github.com/user-attachments/assets/a1f4182c-5718-4fee-b4f6-aa42ddcbcdb1)
