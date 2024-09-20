@@ -32,4 +32,11 @@ Sigue estos pasos para clonar el proyecto desde GitHub y ejecutarlo en tu máqui
    flutter run
 
 <h2> Capturas de pantalla </h2>
-![Bienvenida](https://github.com/user-attachments/assets/a1f4182c-5718-4fee-b4f6-aa42ddcbcdb1)
+<div align="center">
+  <img src="./presentacion/Bienvenida.jpg" alt="Pantalla de Bienvenida" width="600"/>
+  <img src="./presentacion/Bienvenida2.jpg" alt="Pantalla de Bienvenida 2" width="600"/>
+  <img src="./presentacion/Inicio.jpg" alt="Pantalla de Inicio" width="1000"/>
+  <img src="./presentacion/Menu-inicio.jpg" alt="Menú de Inicio" width="1000"/>
+  <img src="./presentacion/Menu-opciones.jpg" alt="Menú de Opciones" width="1000"/>
+</div>
+
