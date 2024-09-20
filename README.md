@@ -18,10 +18,11 @@ Sigue estos pasos para clonar el proyecto desde GitHub y ejecutarlo en tu máqui
    cd /ruta/donde/quieres/clonar
 3. Clona el repositorio ejecutando el siguiente comando:
    ```
-   git clone https://github.com/Maycol127/Flutter-basico.git
+   git clone https://github.com/Maycol127/FlutterUni.git
 4. Entra en el directorio del proyecto:
    ```
-   cd Flutter-basico 
+   cd FlutterUni
+   cd myapp
 5. Instala las dependencias necesarias de Flutter:
    ```
    flutter pub get
