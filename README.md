@@ -33,7 +33,3 @@ Sigue estos pasos para clonar el proyecto desde GitHub y ejecutarlo en tu máqui
 
 <h2> Capturas de pantalla </h1>
 ![Pantalla de bienvenida](./Presentacion/Bienvenida.png)
-![Pantalla de bienvenida 2](../Presentacion/Bienvenida2.png)
-![Pantalla de inicio](Presentacion/Inicio.png)
-![Menú de inicio](Presentacion/Menu-inicio.png)
-![Menú de opciones](Presentacion/Menu-opciones.png)
