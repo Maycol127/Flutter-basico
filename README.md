@@ -1,5 +1,4 @@
 <h1> Flutter básico </h1>
-# Flutter Básico
 
 Este es un proyecto básico de Flutter con ejemplos y características para aprender a usar Flutter.
 
