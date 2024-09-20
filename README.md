@@ -30,7 +30,6 @@ Sigue estos pasos para clonar el proyecto desde GitHub y ejecutarlo en tu máqui
 6. Ejecuta la aplicación en un emulador o dispositivo conectado:
    ```
    flutter run
-
 <h2> Capturas de pantalla </h2>
 <div align="center">
   <img src="./presentacion/Bienvenida.jpg" alt="Pantalla de Bienvenida" width="600"/>
