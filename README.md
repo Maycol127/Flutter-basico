@@ -32,5 +32,8 @@ Sigue estos pasos para clonar el proyecto desde GitHub y ejecutarlo en tu máqui
    flutter run
 
 <h2> Capturas de pantalla </h1>
-Página de bienvenida
-![image](https://github.com/user-attachments/assets/97119057-951b-43f4-80e6-ec3ea8890cac)
+![Pantalla de bienvenida](Presentacion/Bienvenida.png)
+![Pantalla de bienvenida 2](Presentacion/Bienvenida2.png)
+![Pantalla de inicio](Presentacion/Inicio.png)
+![Menú de inicio](Presentacion/Menu-inicio.png)
+![Menú de opciones](Presentacion/Menu-opciones.png)
