@@ -25,3 +25,9 @@ Sigue estos pasos para clonar el proyecto desde GitHub y ejecutarlo en tu máqui
 4. Entra en el directorio del proyecto:
    ```
    cd Flutter-basico 
+5. Instala las dependencias necesarias de Flutter:
+   ```
+   flutter pub get
+6. Ejecuta la aplicación en un emulador o dispositivo conectado:
+   ```
+   flutter run
