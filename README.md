@@ -32,4 +32,4 @@ Sigue estos pasos para clonar el proyecto desde GitHub y ejecutarlo en tu máqui
    flutter run
 
 <h2> Capturas de pantalla </h1>
-https://raw.githubusercontent.com/Maycol127/Flutter-basico/refs/heads/main/Presentacion/Bienvenida.png
+![Descripción de la imagen](https://raw.githubusercontent.com/Maycol127/Flutter-basico/main/Presentacion/Bienvenida.png)
