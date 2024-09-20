@@ -32,4 +32,8 @@ Sigue estos pasos para clonar el proyecto desde GitHub y ejecutarlo en tu máqui
    flutter run
 
 <h2> Capturas de pantalla </h1>
-![Descripción de la imagen](https://raw.githubusercontent.com/Maycol127/Flutter-basico/main/Presentacion/Bienvenida.png)
+![Bienvenida](https://github.com/user-attachments/assets/7d5ee98b-d2e3-4602-8df1-f17a7afbf1b7)
+![Bienvenida2](https://github.com/user-attachments/assets/ac989f95-d1c9-4668-9c7d-535679000fd9)
+![Inicio](https://github.com/user-attachments/assets/33ca4d4d-6b3b-447f-9c40-42f0d070e1a2)
+![Menu-inicio](https://github.com/user-attachments/assets/7a1b8b73-65b8-40e6-8a7e-a8c3bd635c61)
+![Menu-opciones](https://github.com/user-attachments/assets/c9e8b08b-e41e-46ba-ab35-78426558e9e6)
