@@ -1,5 +1,3 @@
-<h1> Flutter básico </h1>
-
 Este es un proyecto básico de Flutter con ejemplos y características para aprender a usar Flutter.
 
 ## Cómo clonar y ejecutar el proyecto
